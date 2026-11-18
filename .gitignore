@@ -1,0 +1,15 @@
+/build/
+/build-debug/
+/out/
+/vcpkg_installed/
+/data/*.db
+/data/*.db-shm
+/data/*.db-wal
+/.cache/
+.idea/
+*.o
+*.a
+*.so
+*.d
+*.core
+core

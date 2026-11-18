@@ -1,0 +1,7 @@
+{
+  "name": "banking-app-coursework",
+  "version-string": "1.0.0",
+  "description": "Учебная банковская система на C++20",
+  "builtin-baseline": "ee12231b20c95013c6638d845d04c91559a1d1ff",
+  "dependencies": ["cpp-httplib", "sqlite3", "nlohmann-json"]
+}
